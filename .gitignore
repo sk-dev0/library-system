@@ -1,0 +1,12 @@
+# コンパイル結果
+bin/
+
+# Eclipse の設定ファイル
+.settings/
+.classpath
+.project
+
+# OS が自動で作るファイル
+Thumbs.db
+desktop.ini
+.DS_Store
